@@ -1,0 +1,2 @@
+# .gitignore is used to not include the mentioned folder when pushed on the repo.
+node_modules  
